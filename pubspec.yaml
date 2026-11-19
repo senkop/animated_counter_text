@@ -1,0 +1,25 @@
+name: animated_counter_text
+description: "An animated number counter for Flutter that counts smoothly to new values, with decimals, thousands separators, prefixes, suffixes and Arabic digits."
+version: 0.1.0
+homepage: https://github.com/senkop/animated_counter_text
+repository: https://github.com/senkop/animated_counter_text
+issue_tracker: https://github.com/senkop/animated_counter_text/issues
+topics:
+  - animation
+  - counter
+  - number
+  - text
+  - widget
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
